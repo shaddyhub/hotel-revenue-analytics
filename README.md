@@ -45,5 +45,5 @@ hotel-revenue-analytics/
 3. Run all cells in order
 
 ## 👤 Author
-**[Your Name]** · Data Analyst  
-[LinkedIn](#) · [Portfolio](#)
+**Shann Morisset** · Data Analyst  
+[LinkedIn](https://www.linkedin.com/in/smorisset888/) · 
