@@ -1,0 +1,201 @@
+hotel,arrival_month,arrival_month_num,country,distribution_channel,stays_in_nights,adr,is_canceled,adults,lead_time_days,total_revenue
+City Hotel,Nov,11,Germany,Direct,5,66.0,0,3,280,330.0
+Resort Hotel,Feb,2,Brazil,Groups,2,107.63,0,1,288,215.26
+Resort Hotel,Apr,4,Spain,Online TA,10,152.91,0,3,217,1529.1
+Resort Hotel,Jun,6,Netherlands,Direct,6,157.32,0,2,177,943.92
+Resort Hotel,Oct,10,Netherlands,Direct,8,293.71,0,3,151,2349.68
+Resort Hotel,Nov,11,UK,Offline TA/TO,2,238.56,0,1,120,477.12
+Resort Hotel,Feb,2,Italy,Online TA,6,166.71,0,3,137,1000.26
+City Hotel,Dec,12,UK,Online TA,3,206.19,0,2,195,618.57
+City Hotel,May,5,Spain,Offline TA/TO,1,224.31,0,2,138,224.31
+City Hotel,Feb,2,Italy,Online TA,10,279.15,1,3,256,0.0
+Resort Hotel,Jul,7,Brazil,Groups,3,154.29,0,2,300,462.87
+Resort Hotel,Jul,7,France,Direct,3,206.88,0,1,79,620.64
+City Hotel,Nov,11,Netherlands,Corporate,7,250.1,0,3,240,1750.7
+Resort Hotel,Sep,9,France,Groups,1,333.06,0,2,175,333.06
+Resort Hotel,Feb,2,Portugal,Groups,8,204.34,0,1,260,1634.72
+Resort Hotel,Feb,2,Germany,Offline TA/TO,9,302.0,0,1,277,2718.0
+City Hotel,Sep,9,Italy,Offline TA/TO,8,203.75,0,1,30,1630.0
+City Hotel,Apr,4,Brazil,Online TA,8,80.56,1,1,244,0.0
+City Hotel,Sep,9,UK,Groups,10,123.61,0,3,103,1236.1
+Resort Hotel,Dec,12,Brazil,Corporate,6,195.76,0,1,127,1174.56
+City Hotel,Apr,4,China,Online TA,10,141.14,0,1,37,1411.4
+City Hotel,Dec,12,France,Groups,1,114.95,1,1,143,0.0
+Resort Hotel,Nov,11,China,Groups,3,151.42,1,2,125,0.0
+Resort Hotel,Aug,8,Italy,Corporate,2,165.7,0,2,240,331.4
+City Hotel,Dec,12,Italy,Direct,2,221.61,0,1,99,443.22
+Resort Hotel,Apr,4,UK,Direct,3,133.64,0,2,282,400.92
+City Hotel,Feb,2,France,Online TA,9,216.51,1,1,209,0.0
+Resort Hotel,Aug,8,Germany,Corporate,7,171.3,1,1,200,0.0
+Resort Hotel,May,5,USA,Online TA,9,168.46,0,1,152,1516.14
+City Hotel,Apr,4,Italy,Direct,9,199.0,0,1,300,1791.0
+City Hotel,Aug,8,Germany,Direct,9,93.65,0,3,35,842.85
+City Hotel,Nov,11,China,Direct,10,156.91,0,3,42,1569.1
+Resort Hotel,Jul,7,Italy,Online TA,4,344.33,0,2,203,1377.32
+Resort Hotel,Mar,3,China,Groups,2,209.73,0,1,38,419.46
+City Hotel,Sep,9,France,Online TA,3,181.41,1,2,146,0.0
+Resort Hotel,Mar,3,Brazil,Direct,5,300.1,0,3,284,1500.5
+City Hotel,May,5,France,Groups,3,285.34,0,1,140,856.02
+City Hotel,May,5,Portugal,Groups,4,232.23,0,2,129,928.92
+City Hotel,Jan,1,Italy,Online TA,5,212.23,0,3,135,1061.15
+Resort Hotel,Mar,3,France,Direct,7,232.4,0,3,77,1626.8
+City Hotel,Sep,9,Netherlands,Online TA,10,260.3,0,1,158,2603.0
+City Hotel,Jun,6,France,Offline TA/TO,4,295.74,0,3,209,1182.96
+City Hotel,Oct,10,Germany,Corporate,4,282.18,1,1,92,0.0
+Resort Hotel,Dec,12,UK,Offline TA/TO,7,287.77,1,1,56,0.0
+City Hotel,Jul,7,USA,Offline TA/TO,4,286.06,0,2,117,1144.24
+City Hotel,Apr,4,France,Offline TA/TO,7,218.41,0,2,261,1528.87
+Resort Hotel,Jul,7,Portugal,Online TA,2,345.42,1,3,136,0.0
+City Hotel,Jan,1,Italy,Corporate,6,203.18,1,3,262,0.0
+Resort Hotel,Feb,2,Netherlands,Direct,4,315.88,0,3,276,1263.52
+City Hotel,Nov,11,Italy,Groups,2,147.41,1,2,64,0.0
+Resort Hotel,Dec,12,Portugal,Groups,7,221.71,0,1,99,1551.97
+Resort Hotel,Jul,7,Portugal,Corporate,3,282.56,0,3,1,847.68
+Resort Hotel,May,5,Italy,Corporate,10,150.44,0,2,227,1504.4
+City Hotel,Nov,11,Portugal,Groups,3,182.68,0,3,172,548.04
+City Hotel,Feb,2,Germany,Direct,4,221.47,1,1,126,0.0
+City Hotel,Aug,8,Netherlands,Corporate,10,189.3,0,2,125,1893.0
+City Hotel,Mar,3,UK,Online TA,2,274.24,1,3,266,0.0
+City Hotel,Aug,8,USA,Groups,2,213.78,0,3,163,427.56
+Resort Hotel,Aug,8,Germany,Corporate,9,319.34,0,2,133,2874.06
+Resort Hotel,Apr,4,UK,Offline TA/TO,9,283.8,0,2,40,2554.2
+Resort Hotel,Dec,12,Brazil,Direct,6,156.28,0,1,78,937.68
+Resort Hotel,Apr,4,Netherlands,Offline TA/TO,4,266.55,0,3,239,1066.2
+City Hotel,Jul,7,China,Direct,7,129.64,0,3,195,907.48
+City Hotel,Aug,8,Netherlands,Groups,5,306.26,1,3,280,0.0
+City Hotel,Oct,10,Spain,Corporate,5,177.18,0,2,208,885.9
+City Hotel,Dec,12,Brazil,Direct,3,261.72,1,2,289,0.0
+City Hotel,Nov,11,USA,Online TA,7,80.15,0,1,134,561.05
+Resort Hotel,Jul,7,Netherlands,Offline TA/TO,6,170.8,0,2,130,1024.8
+Resort Hotel,Feb,2,Italy,Online TA,9,104.65,0,3,36,941.85
+City Hotel,Nov,11,Spain,Groups,4,241.02,0,1,123,964.08
+Resort Hotel,Mar,3,USA,Offline TA/TO,10,260.67,1,2,86,0.0
+City Hotel,Oct,10,France,Groups,3,246.67,1,1,160,0.0
+Resort Hotel,Oct,10,UK,Direct,4,195.2,0,3,155,780.8
+City Hotel,Nov,11,Italy,Groups,10,251.09,1,2,190,0.0
+Resort Hotel,Feb,2,France,Corporate,7,103.04,1,2,236,0.0
+City Hotel,Dec,12,Portugal,Groups,9,164.52,1,3,248,0.0
+Resort Hotel,Aug,8,UK,Direct,10,318.18,0,2,231,3181.8
+Resort Hotel,Apr,4,USA,Offline TA/TO,7,236.76,0,1,250,1657.32
+Resort Hotel,Apr,4,China,Offline TA/TO,6,291.48,0,3,6,1748.88
+City Hotel,Sep,9,UK,Corporate,7,80.55,0,3,252,563.85
+City Hotel,Aug,8,UK,Offline TA/TO,4,102.33,0,3,298,409.32
+Resort Hotel,Jun,6,Brazil,Offline TA/TO,6,252.83,0,2,233,1516.98
+Resort Hotel,May,5,Italy,Direct,2,160.34,1,3,275,0.0
+City Hotel,Dec,12,China,Groups,8,105.97,0,3,145,847.76
+City Hotel,Feb,2,Spain,Groups,6,131.1,0,1,141,786.6
+City Hotel,Jan,1,USA,Direct,3,192.81,0,1,294,578.43
+Resort Hotel,May,5,Spain,Offline TA/TO,6,214.89,0,2,59,1289.34
+Resort Hotel,Feb,2,Spain,Online TA,10,218.02,0,1,289,2180.2
+City Hotel,May,5,Netherlands,Groups,2,298.54,0,3,116,597.08
+Resort Hotel,Sep,9,China,Corporate,8,208.12,0,2,292,1664.96
+City Hotel,Oct,10,UK,Online TA,2,206.31,1,2,42,0.0
+City Hotel,Mar,3,Netherlands,Corporate,2,101.72,0,3,241,203.44
+City Hotel,May,5,USA,Direct,5,115.55,1,3,120,0.0
+City Hotel,May,5,Germany,Offline TA/TO,9,162.03,0,1,37,1458.27
+City Hotel,Jan,1,China,Offline TA/TO,10,250.23,1,2,64,0.0
+Resort Hotel,Aug,8,USA,Corporate,5,287.94,0,1,21,1439.7
+Resort Hotel,Jul,7,China,Groups,1,264.89,0,1,138,264.89
+City Hotel,Oct,10,USA,Offline TA/TO,3,243.15,0,1,300,729.45
+Resort Hotel,Jul,7,Italy,Offline TA/TO,8,352.57,0,3,54,2820.56
+Resort Hotel,Mar,3,Netherlands,Groups,8,198.79,0,1,233,1590.32
+Resort Hotel,Feb,2,Netherlands,Groups,2,160.58,1,1,278,0.0
+Resort Hotel,Aug,8,USA,Corporate,9,133.01,0,1,105,1197.09
+City Hotel,May,5,USA,Direct,8,282.64,1,1,123,0.0
+City Hotel,Dec,12,France,Online TA,1,134.58,0,1,237,134.58
+City Hotel,Feb,2,Portugal,Corporate,5,179.61,0,2,242,898.05
+Resort Hotel,Apr,4,China,Groups,7,232.3,0,3,70,1626.1
+Resort Hotel,Feb,2,Brazil,Offline TA/TO,7,285.44,0,1,145,1998.08
+Resort Hotel,Dec,12,USA,Online TA,10,300.99,1,2,276,0.0
+Resort Hotel,Aug,8,Italy,Online TA,9,199.79,0,3,123,1798.11
+Resort Hotel,Oct,10,USA,Corporate,7,156.05,0,2,78,1092.35
+City Hotel,Aug,8,France,Corporate,10,110.3,0,1,270,1103.0
+City Hotel,Aug,8,Germany,Direct,7,253.39,1,2,136,0.0
+Resort Hotel,Jun,6,Brazil,Corporate,6,275.96,1,2,250,0.0
+City Hotel,Sep,9,Portugal,Online TA,4,208.19,0,3,47,832.76
+City Hotel,Jul,7,Portugal,Direct,2,262.49,0,1,167,524.98
+Resort Hotel,Jan,1,Brazil,Corporate,7,186.03,0,3,93,1302.21
+City Hotel,Mar,3,UK,Corporate,7,78.95,0,3,74,552.65
+Resort Hotel,Apr,4,Spain,Corporate,8,253.1,0,2,280,2024.8
+City Hotel,Mar,3,Portugal,Corporate,6,166.02,1,3,129,0.0
+Resort Hotel,Aug,8,France,Online TA,7,167.81,1,2,293,0.0
+Resort Hotel,Jun,6,Netherlands,Offline TA/TO,5,358.25,0,1,290,1791.25
+City Hotel,Nov,11,Portugal,Online TA,8,278.55,1,3,181,0.0
+City Hotel,Apr,4,Spain,Offline TA/TO,3,209.01,0,2,18,627.03
+Resort Hotel,Oct,10,Italy,Corporate,2,275.77,1,1,103,0.0
+Resort Hotel,Mar,3,Portugal,Corporate,5,227.4,1,2,174,0.0
+Resort Hotel,Feb,2,UK,Corporate,3,331.09,1,3,188,0.0
+Resort Hotel,Feb,2,Italy,Offline TA/TO,9,103.34,0,3,196,930.06
+Resort Hotel,Nov,11,China,Groups,4,126.0,0,2,114,504.0
+City Hotel,Nov,11,Portugal,Corporate,8,212.5,1,1,72,0.0
+City Hotel,Jan,1,UK,Groups,8,133.05,0,1,199,1064.4
+Resort Hotel,Aug,8,Germany,Corporate,9,280.92,0,3,51,2528.28
+Resort Hotel,Aug,8,Italy,Online TA,5,345.37,0,2,228,1726.85
+Resort Hotel,Apr,4,Italy,Direct,6,123.85,0,2,142,743.1
+City Hotel,Apr,4,UK,Groups,8,287.76,0,1,26,2302.08
+City Hotel,Jun,6,Brazil,Online TA,10,317.32,0,3,111,3173.2
+Resort Hotel,Apr,4,Germany,Online TA,10,285.85,0,3,129,2858.5
+City Hotel,Mar,3,Italy,Online TA,1,218.65,0,3,166,218.65
+City Hotel,Jan,1,Brazil,Direct,3,123.69,1,3,33,0.0
+Resort Hotel,Aug,8,USA,Groups,9,306.72,0,1,23,2760.48
+Resort Hotel,Dec,12,USA,Corporate,1,209.93,0,2,56,209.93
+Resort Hotel,Aug,8,Germany,Direct,2,137.64,0,1,141,275.28
+Resort Hotel,Oct,10,USA,Groups,10,191.42,0,3,221,1914.2
+City Hotel,Feb,2,UK,Corporate,9,264.67,1,2,117,0.0
+Resort Hotel,Jul,7,France,Offline TA/TO,7,318.58,0,2,161,2230.06
+Resort Hotel,Nov,11,USA,Direct,3,189.83,0,1,44,569.49
+Resort Hotel,Feb,2,Brazil,Direct,6,123.18,1,3,288,0.0
+Resort Hotel,Sep,9,Netherlands,Direct,7,260.8,0,2,160,1825.6
+City Hotel,Jun,6,USA,Online TA,4,218.7,0,1,180,874.8
+Resort Hotel,Sep,9,Netherlands,Groups,5,127.57,0,3,286,637.85
+Resort Hotel,Jan,1,Portugal,Offline TA/TO,5,106.95,1,2,4,0.0
+City Hotel,Mar,3,Spain,Direct,7,195.92,0,3,272,1371.44
+Resort Hotel,Apr,4,Portugal,Offline TA/TO,6,200.76,0,3,44,1204.56
+City Hotel,Jan,1,France,Offline TA/TO,10,97.78,0,2,218,977.8
+Resort Hotel,Aug,8,France,Offline TA/TO,4,219.4,1,2,57,0.0
+Resort Hotel,May,5,Netherlands,Groups,5,226.46,0,1,4,1132.3
+Resort Hotel,Apr,4,Portugal,Offline TA/TO,3,326.88,1,1,4,0.0
+Resort Hotel,Aug,8,UK,Groups,7,162.17,0,3,182,1135.19
+Resort Hotel,Feb,2,USA,Direct,1,306.82,0,2,295,306.82
+Resort Hotel,Jul,7,Netherlands,Direct,7,290.28,0,2,88,2031.96
+Resort Hotel,Oct,10,France,Online TA,6,299.69,0,2,206,1798.14
+City Hotel,Sep,9,UK,Offline TA/TO,5,154.98,1,1,40,0.0
+City Hotel,Sep,9,Italy,Offline TA/TO,4,187.35,1,3,76,0.0
+City Hotel,Apr,4,Germany,Direct,4,95.15,0,1,253,380.6
+Resort Hotel,Aug,8,China,Offline TA/TO,10,283.47,0,3,162,2834.7
+Resort Hotel,Mar,3,Portugal,Groups,8,116.39,0,1,181,931.12
+City Hotel,Sep,9,Italy,Offline TA/TO,8,134.5,0,1,47,1076.0
+Resort Hotel,Oct,10,Spain,Corporate,9,211.05,1,3,97,0.0
+Resort Hotel,Jun,6,Italy,Direct,1,240.33,0,3,89,240.33
+City Hotel,Jan,1,China,Online TA,8,229.83,0,2,191,1838.64
+Resort Hotel,May,5,Spain,Offline TA/TO,6,198.1,0,1,169,1188.6
+Resort Hotel,Feb,2,Italy,Direct,10,168.2,1,3,73,0.0
+Resort Hotel,Jun,6,France,Offline TA/TO,7,352.25,0,3,193,2465.75
+Resort Hotel,Nov,11,Netherlands,Groups,9,295.16,0,2,10,2656.44
+Resort Hotel,Jun,6,USA,Online TA,4,163.26,0,1,71,653.04
+City Hotel,Mar,3,Brazil,Groups,2,130.99,0,1,173,261.98
+City Hotel,Oct,10,China,Online TA,3,203.34,0,3,225,610.02
+Resort Hotel,Jan,1,China,Offline TA/TO,4,187.43,1,3,230,0.0
+City Hotel,Apr,4,UK,Offline TA/TO,8,134.27,1,3,293,0.0
+Resort Hotel,Aug,8,Netherlands,Online TA,7,304.67,0,1,71,2132.69
+City Hotel,May,5,France,Groups,6,213.88,0,1,146,1283.28
+City Hotel,Feb,2,Netherlands,Direct,9,125.47,0,1,231,1129.23
+City Hotel,Jun,6,UK,Corporate,7,179.58,0,1,192,1257.06
+City Hotel,Apr,4,Italy,Online TA,2,136.48,1,1,20,0.0
+Resort Hotel,May,5,USA,Corporate,3,267.06,1,3,3,0.0
+City Hotel,Feb,2,China,Groups,3,121.42,0,2,57,364.26
+City Hotel,May,5,China,Corporate,1,132.28,0,1,57,132.28
+City Hotel,Aug,8,Germany,Offline TA/TO,10,231.67,0,2,1,2316.7
+Resort Hotel,Oct,10,France,Groups,7,157.74,0,2,35,1104.18
+City Hotel,Sep,9,Netherlands,Offline TA/TO,8,153.71,0,2,9,1229.68
+City Hotel,Jun,6,Italy,Online TA,2,162.75,1,1,181,0.0
+Resort Hotel,Sep,9,USA,Corporate,3,295.24,1,3,94,0.0
+City Hotel,Mar,3,UK,Direct,8,231.85,0,1,22,1854.8
+Resort Hotel,Jun,6,Spain,Online TA,9,243.69,0,2,183,2193.21
+Resort Hotel,Jan,1,Netherlands,Corporate,6,165.57,0,2,174,993.42
+Resort Hotel,Mar,3,Brazil,Offline TA/TO,6,266.1,1,1,218,0.0
+Resort Hotel,Feb,2,Italy,Direct,3,244.59,0,1,168,733.77
+Resort Hotel,Nov,11,Germany,Corporate,10,173.56,1,2,229,0.0
+Resort Hotel,Jan,1,Spain,Direct,7,247.56,0,3,208,1732.92
+City Hotel,Jun,6,USA,Direct,3,308.67,1,1,35,0.0
+Resort Hotel,Apr,4,Germany,Corporate,10,186.92,0,2,191,1869.2
